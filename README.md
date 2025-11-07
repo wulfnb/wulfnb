@@ -69,8 +69,7 @@ Check out my technical documentation and guides:
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=wulfnb&theme=radical&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wulfnb&theme=radical&hide_border=true)
 ### 🏆 GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=wulfnb&theme=radical&no-frame=true&margin-w=15)
