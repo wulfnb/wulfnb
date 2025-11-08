@@ -32,55 +32,27 @@ Check out my technical documentation and guides:
 
 ### Programming Languages
 
-<img src="images/programming/python-original.svg" alt="Python" width="50" height="50"/>
-<img src="images/programming/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="images/programming/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-<img src="images/programming/java-original.svg" alt="Java" width="50" height="50"/>
-<img src="images/programming/php-original.svg" alt="PHP" width="50" height="50"/>
-<img src="images/programming/go-original-wordmark.svg" alt="Go" width="50" height="50"/>
+<img src="images/programming/python-original.svg" alt="Python" width="50" height="50"/> <img src="images/programming/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="images/programming/typescript-original.svg" alt="TypeScript" width="50" height="50"/> <img src="images/programming/java-original.svg" alt="Java" width="50" height="50"/> <img src="images/programming/php-original.svg" alt="PHP" width="50" height="50"/> <img src="images/programming/go-original-wordmark.svg" alt="Go" width="50" height="50"/>
 
 ### Backend Frameworks
 
-<img src="images/backend/flask-original.svg" alt="Flask" width="50" height="50"/>
-<img src="images/backend/django-plain.svg" alt="Django" width="50" height="50"/>
-<img src="images/backend/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
-<img src="images/backend/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-<img src="images/backend/express-original.svg" alt="Express.js" width="50" height="50"/>
+<img src="images/backend/flask-original.svg" alt="Flask" width="50" height="50"/> <img src="images/backend/django-plain.svg" alt="Django" width="50" height="50"/> <img src="images/backend/spring-original.svg" alt="Spring Boot" width="50" height="50"/> <img src="images/backend/nodejs-original.svg" alt="Node.js" width="50" height="50"/> <img src="images/backend/express-original.svg" alt="Express.js" width="50" height="50"/> 
 
 ### Frontend Technologies
 
-<img src="images/frontend/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
-<img src="images/frontend/angularjs-original.svg" alt="AngularJS" width="50" height="50"/>
-<img src="images/frontend/react-original.svg" alt="React" width="50" height="50"/>
-<img src="images/frontend/html5-original.svg" alt="HTML5" width="50" height="50"/>
-<img src="images/frontend/css3-original.svg" alt="CSS3" width="50" height="50"/>
-<img src="images/frontend/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="images/frontend/vuejs-original.svg" alt="Vue.js" width="50" height="50"/> <img src="images/frontend/angularjs-original.svg" alt="AngularJS" width="50" height="50"/> <img src="images/frontend/react-original.svg" alt="React" width="50" height="50"/> <img src="images/frontend/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="images/frontend/css3-original.svg" alt="CSS3" width="50" height="50"/> <img src="images/frontend/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
 
 ### Databases
 
-<img src="images/databases/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img src="images/databases/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-<img src="images/databases/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-<img src="images/databases/redis-original.svg" alt="Redis" width="50" height="50"/>
-<img src="images/databases/rabbitmq-original.svg" alt="RabbitMQ" width="50" height="50"/>
+<img src="images/databases/mysql-original.svg" alt="MySQL" width="50" height="50"/> <img src="images/databases/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> <img src="images/databases/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> <img src="images/databases/redis-original.svg" alt="Redis" width="50" height="50"/> <img src="images/databases/rabbitmq-original.svg" alt="RabbitMQ" width="50" height="50"/>
 
 ### Cloud & DevOps
 
-<img src="images/cloud/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="images/cloud/azure-original.svg" alt="Azure" width="50" height="50"/>
-<img src="images/cloud/docker-original.svg" alt="Docker" width="50" height="50"/>
-<img src="images/cloud/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/>
-<img src="images/cloud/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-<img src="images/cloud/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
+<img src="images/cloud/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="images/cloud/azure-original.svg" alt="Azure" width="50" height="50"/> <img src="images/cloud/docker-original.svg" alt="Docker" width="50" height="50"/> <img src="images/cloud/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/> <img src="images/cloud/terraform-original.svg" alt="Terraform" width="50" height="50"/> <img src="images/cloud/jenkins-original.svg" alt="Jenkins" width="50" height="50"/>
 
 ### Tools & Technologies
 
-<img src="images/tools/nginx-original.svg" alt="Nginx" width="50" height="50"/>
-<img src="images/tools/apache-original.svg" alt="Apache" width="50" height="50"/>
-<img src="images/tools/ansible-original.svg" alt="Ansible" width="50" height="50"/>
-<img src="images/tools/apachekafka-original.svg" alt="Kafka" width="50" height="50"/>
-<img src="images/tools/graphql-plain.svg" alt="GraphQL" width="50" height="50"/>
-<img src="images/tools/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="images/tools/nginx-original.svg" alt="Nginx" width="50" height="50"/> <img src="images/tools/apache-original.svg" alt="Apache" width="50" height="50"/> <img src="images/tools/ansible-original.svg" alt="Ansible" width="50" height="50"/> <img src="images/tools/apachekafka-original.svg" alt="Kafka" width="50" height="50"/> <img src="images/tools/graphql-plain.svg" alt="GraphQL" width="50" height="50"/> <img src="images/tools/git-original.svg" alt="Git" width="50" height="50"/>
 
 ---
 
@@ -175,7 +147,7 @@ Comprehensive quick reference guide for various programming languages and techno
 <!-- BLOG-POST-LIST:START -->
 
 - [Learn about Mermaid on github](https://wulfnb.github.io/software_engineer/tools/documentation/mermaid/)
-- [Learn Agile methodology simple way](https://wulfnb.github.io/software_engineer/software_engineer/agile/agile/)
+- [Learn Agile methodology simple way](https://wulfnb.github.io/software_engineer/agile/agile/)
 - [Project Planning Comprehensive Guide](https://wulfnb.github.io/software_engineer/agile/planning)
 - [Learn German alphabets](https://wulfnb.github.io/german/grundlagen/alphabet/)
 - [Software Architecture](https://wulfnb.github.io/software_engineer/architecture/software-architecture/)
